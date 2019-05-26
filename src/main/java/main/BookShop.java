@@ -8,7 +8,6 @@ public class BookShop{
         for(int i=0;i<50;i++){
             itemAvailable[i] = new Item();
         }
-
         itemAvailable[0].addItem("To kill a mockingbird", 40);
         itemAvailable[1].addItem("My experiment with truth", 156);
         itemAvailable[2].addItem("when breath becomes air", 70);
